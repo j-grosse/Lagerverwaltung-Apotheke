@@ -17,7 +17,7 @@ Die Persistierung geschieht dabei über mehrere .csv Dateien (IstBestand.csv, Bu
 # Anforderungen
 
 1. Medikamente neu aufnehmen
-2. vorhandne Medikamente aufstocken, wenn neue Ware angeliefert wird
+2. vorhandene Medikamente aufstocken, wenn neue Ware angeliefert wird
 3. aktuellen Bestand eines Medikaments auslesen
 4. Medikamente für den Verkauf entnehmen
 5. wöchenliche Lager-Inventur in Datei IstBestand.csv festhalten
