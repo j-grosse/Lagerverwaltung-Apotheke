@@ -1,5 +1,5 @@
 # Beschreibung
-__Lagerverwaltungsanwendung für eine Apotheke__
+__Java Lagerverwaltung für eine Apotheke__
 
 Mit dieser Java-Anwendung lässt sich über ein Swing GUI das Lager einer Apotheke verwalten.
 Die Persistierung geschieht dabei über mehrere .csv Dateien (IstBestand.csv, BuchBestand.csv, Abweichungen.csv, Absatz.csv).
