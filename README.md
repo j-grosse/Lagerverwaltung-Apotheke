@@ -6,7 +6,7 @@ Die Persistierung geschieht dabei über mehrere .csv Dateien (IstBestand.csv, Bu
 
 # Javadoc
 
-<a href="https://j-grosse.github.io/Lagerverwaltung_Apotheke/Lagerverwaltung_Apotheke/javadoc/com/apothekenlager/package-summary.html">javadoc öffnen</a>
+<a href="https://j-grosse.github.io/Lagerverwaltung_Apotheke/javadoc/com/apothekenlager/package-summary.html">javadoc öffnen</a>
 
 
 # Klassendiagramm
